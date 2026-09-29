@@ -2,7 +2,7 @@
 
 > Eigenschaften und Wirkungen von 63 Eiweiss-Lebensmitteln nach der Traditionellen Chinesischen Medizin (TCM): Fisch, Fleisch, Milch, Käse, Ei, Tofu, Linsen.
 
-Eine einzelne statische Seite (https://zagathou.github.io/tcm-proteine/) mit 63 eiweissreichen Lebensmitteln (Fisch & Meeresfrüchte, Fleisch, Milchprodukte & Käse, Eier, Hülsenfrüchte, Sojaprodukte), alphabetisch von A bis Z. Pro Eintrag: Name, Kategorie, lateinischer Name (falls auf therapeutika.ch vorhanden), Eigenschaften und TCM Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen inkl. Anwendungshinweisen in Klammern. Alle Inhalte stammen unverändert von therapeutika.ch (Stand: 29.09.2026). Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+Eine einzelne statische Seite (https://zagathou.github.io/tcm-proteine/) mit 63 eiweissreichen Lebensmitteln (Fisch & Meeresfrüchte, Fleisch, Milchprodukte & Käse, Eier, Hülsenfrüchte, Sojaprodukte), alphabetisch von A bis Z. Pro Eintrag: Name, Kategorie, lateinischer Name (falls auf therapeutika.ch vorhanden), Eigenschaften und TCM Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen inkl. Anwendungshinweisen in Klammern. Alle Inhalte stammen unverändert von therapeutika.ch (Stand: 29.09.2026). Fehlende Angaben sind als „keine Angaben auf therapeutika.ch“ markiert. Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
 
 ## Dateien
 
@@ -100,9 +100,12 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-proteine/) mit 63 
 - Website: https://freyna.org/
 - GitHub: https://github.com/Zagathou
 
-## Verwandt
+## Weitere Seiten
 
-- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/): gleiche Struktur für Gewürze
+- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/)
+- [TCM Fette](https://zagathou.github.io/tcm-fette/)
+- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
 
 ## Quelle
 

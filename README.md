@@ -39,9 +39,12 @@ Alle Eigenschaften und TCM Wirkungen stammen von **[therapeutika.ch](https://www
 
 Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
 
-## Weitere Seite
+## Weitere Seiten
 
 - [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/)
+- [TCM Fette](https://zagathou.github.io/tcm-fette/)
+- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM Heilkräuter](https://zagathou.github.io/tcm-heilkraeuter/)
 
 ## Kontakt
 
