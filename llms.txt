@@ -1,0 +1,109 @@
+# TCM Proteine
+
+> Eigenschaften und Wirkungen von 63 Eiweiss-Lebensmitteln nach der Traditionellen Chinesischen Medizin (TCM): Fisch, Fleisch, Milch, Käse, Ei, Tofu, Linsen.
+
+Eine einzelne statische Seite (https://zagathou.github.io/tcm-proteine/) mit 63 eiweissreichen Lebensmitteln (Fisch & Meeresfrüchte, Fleisch, Milchprodukte & Käse, Eier, Hülsenfrüchte, Sojaprodukte), alphabetisch von A bis Z. Pro Eintrag: Name, Kategorie, lateinischer Name (falls auf therapeutika.ch vorhanden), Eigenschaften und TCM Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen inkl. Anwendungshinweisen in Klammern. Alle Inhalte stammen unverändert von therapeutika.ch (Stand: 29.09.2026). Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+
+## Dateien
+
+- [Webseite (HTML)](https://zagathou.github.io/tcm-proteine/): alle Einträge als Karten, ohne JavaScript
+- [llms-full.txt](https://zagathou.github.io/tcm-proteine/llms-full.txt): alle 63 Einträge als reiner Text
+
+## Einträge nach Kategorie
+
+### Fisch & Meeresfrüchte (18)
+
+- [Austern](https://zagathou.github.io/tcm-proteine/#austern): Ostrea edulis
+- [Dorsch](https://zagathou.github.io/tcm-proteine/#dorsch): Gadus morhua
+- [Egli](https://zagathou.github.io/tcm-proteine/#egli): Perca fluviatilis
+- [Forelle](https://zagathou.github.io/tcm-proteine/#forelle)
+- [Garnelen, Langusten](https://zagathou.github.io/tcm-proteine/#garnelen-langusten)
+- [Hering](https://zagathou.github.io/tcm-proteine/#hering): Clupea harengus
+- [Karpfen](https://zagathou.github.io/tcm-proteine/#karpfen): Cyprinus carpio
+- [Lachs](https://zagathou.github.io/tcm-proteine/#lachs): Pazifik-Lachs (Oncorrhynchus spec.)
+- [Makrele](https://zagathou.github.io/tcm-proteine/#makrele): Scomber scombrus
+- [Miesmuscheln](https://zagathou.github.io/tcm-proteine/#miesmuscheln): Mytilus edulis
+- [Plattfische](https://zagathou.github.io/tcm-proteine/#plattfische)
+- [Sardelle](https://zagathou.github.io/tcm-proteine/#sardelle): Engraulis encrasicolus
+- [Sardine](https://zagathou.github.io/tcm-proteine/#sardine): Sardina pilchardus
+- [Seelachs](https://zagathou.github.io/tcm-proteine/#seelachs): Pollachius virens
+- [Thunfisch](https://zagathou.github.io/tcm-proteine/#thunfisch): Thunnus spec.
+- [Tintenfisch](https://zagathou.github.io/tcm-proteine/#tintenfisch): Sepia officinalis
+- [Vongole](https://zagathou.github.io/tcm-proteine/#vongole)
+- [Zander](https://zagathou.github.io/tcm-proteine/#zander): Stizostedion lucioperca
+
+### Fleisch (15)
+
+- [Entenfleisch](https://zagathou.github.io/tcm-proteine/#entenfleisch): Anas spec. und andere Gattungen
+- [Hühnerfleisch](https://zagathou.github.io/tcm-proteine/#huehnerfleisch): Gallus gallus
+- [Hühnerleber](https://zagathou.github.io/tcm-proteine/#huehnerleber): Gallus gallus
+- [Kaninchenfleisch](https://zagathou.github.io/tcm-proteine/#kaninchenfleisch): Oryctolagus cuniculus
+- [Kaninchenleber](https://zagathou.github.io/tcm-proteine/#kaninchenleber): Oryctolagus cuniculus
+- [Lammfleisch, Ziegenfleisch](https://zagathou.github.io/tcm-proteine/#lammfleisch-ziegenfleisch): Ovis aries (Hausschaf)
+- [Pferdefleisch](https://zagathou.github.io/tcm-proteine/#pferdefleisch): Equus przewalskii
+- [Rinderleber](https://zagathou.github.io/tcm-proteine/#rinderleber): Bos primigenius
+- [Rindfleisch](https://zagathou.github.io/tcm-proteine/#rindfleisch): Bos primigenius
+- [Schweinefleisch](https://zagathou.github.io/tcm-proteine/#schweinefleisch): Sus scrofa f. domestica (Hausschwein)
+- [Schweineleber](https://zagathou.github.io/tcm-proteine/#schweineleber): Sus scrofa f. domestica (Hausschwein)
+- [Trutenfleisch](https://zagathou.github.io/tcm-proteine/#trutenfleisch): Meleagris gallopavo
+- [Wildfleisch, generell](https://zagathou.github.io/tcm-proteine/#wildfleisch-generell)
+- [Wildhase, Feldhase](https://zagathou.github.io/tcm-proteine/#wildhase-feldhase): Lepus europaeus
+- [Wildschweinfleisch](https://zagathou.github.io/tcm-proteine/#wildschweinfleisch): Sus scrofa
+
+### Milchprodukte & Käse (13)
+
+- [Feta (Schaf, Ziege)](https://zagathou.github.io/tcm-proteine/#feta-schaf-ziege)
+- [Joghurt (Kuh)](https://zagathou.github.io/tcm-proteine/#joghurt-kuh)
+- [Joghurt (Schaf)](https://zagathou.github.io/tcm-proteine/#joghurt-schaf)
+- [Käse (Kuhmilch)](https://zagathou.github.io/tcm-proteine/#kaese-kuhmilch)
+- [Käse (Schaf-, Ziegenmilch)](https://zagathou.github.io/tcm-proteine/#kaese-schaf-ziegenmilch)
+- [Milch (Kuh)](https://zagathou.github.io/tcm-proteine/#milch-kuh)
+- [Milch (Mensch-Muttermilch)](https://zagathou.github.io/tcm-proteine/#milch-mensch-muttermilch)
+- [Milch (Schaf)](https://zagathou.github.io/tcm-proteine/#milch-schaf)
+- [Milch (Ziege)](https://zagathou.github.io/tcm-proteine/#milch-ziege)
+- [Peccorino](https://zagathou.github.io/tcm-proteine/#peccorino): Ovis aries (Hausschaf)
+- [Quark, Frischkäse (Kuh)](https://zagathou.github.io/tcm-proteine/#quark-frischkaese-kuh)
+- [Rahm](https://zagathou.github.io/tcm-proteine/#rahm)
+- [Sojamilch](https://zagathou.github.io/tcm-proteine/#sojamilch)
+
+### Eier (1)
+
+- [Hühnerei](https://zagathou.github.io/tcm-proteine/#huehnerei)
+
+### Hülsenfrüchte (13)
+
+- [Azukibohne](https://zagathou.github.io/tcm-proteine/#azukibohne): Vigna angularis
+- [Bohnen, grün](https://zagathou.github.io/tcm-proteine/#bohnen-gruen): Phaeseolus vulgaris
+- [Bohnen, schwarz](https://zagathou.github.io/tcm-proteine/#bohnen-schwarz): Phaseolus vulgaris
+- [Erbsen, frisch](https://zagathou.github.io/tcm-proteine/#erbsen-frisch): Pisum sativum
+- [Kichererbse](https://zagathou.github.io/tcm-proteine/#kichererbse): Cicer arietinum
+- [Kichererbsen, gekeimt](https://zagathou.github.io/tcm-proteine/#kichererbsen-gekeimt): Cicer arietinum
+- [Kidney Bohnen](https://zagathou.github.io/tcm-proteine/#kidney-bohnen): Phaseolus aconitifolius
+- [Lima Bohne](https://zagathou.github.io/tcm-proteine/#lima-bohne): Phaseolus lunatus
+- [Linsen](https://zagathou.github.io/tcm-proteine/#linsen): Lens culinaris
+- [Linsen, gekeimt](https://zagathou.github.io/tcm-proteine/#linsen-gekeimt): Lens culinaris, gekeimt
+- [Mungbohne](https://zagathou.github.io/tcm-proteine/#mungbohne): Phaseolus radiata
+- [Mungbohnen-Sprossen](https://zagathou.github.io/tcm-proteine/#mungbohnen-sprossen): Phaseolus radiata
+- [Sojabohne, gelb](https://zagathou.github.io/tcm-proteine/#sojabohne-gelb): Glycine max
+
+### Sonstige (3)
+
+- [Miso](https://zagathou.github.io/tcm-proteine/#miso)
+- [Tempeh](https://zagathou.github.io/tcm-proteine/#tempeh)
+- [Tofu](https://zagathou.github.io/tcm-proteine/#tofu)
+
+## Autor
+
+- Christian Grigoriadis (Künstlername: Zagathou)
+- E-Mail: xelotath@outlook.de
+- Session-ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
+- Website: https://freyna.org/
+- GitHub: https://github.com/Zagathou
+
+## Verwandt
+
+- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/): gleiche Struktur für Gewürze
+
+## Quelle
+
+- [therapeutika.ch](https://www.therapeutika.ch/)
