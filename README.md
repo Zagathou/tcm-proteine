@@ -52,4 +52,4 @@ Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
 - E-Mail: [XELOTATH@OUTLOOK.DE](mailto:xelotath@outlook.de)
 - Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
 - Website: [FREYNA.ORG](https://freyna.org/)
-- GitHub: [GITHUB.COM/ZAGATHOU](https://github.com/Zagathou)
+- GitHub: [github.com/Zagathou](https://github.com/Zagathou)
