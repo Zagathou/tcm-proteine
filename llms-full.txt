@@ -1572,4 +1572,5 @@ Quelle: https://www.therapeutika.ch/Zander
 
 ---
 
-Last Updated: 01.10.2026
+Last Updated: 03.10.2026
+Coded by GrokBot / SpaceXAI!
