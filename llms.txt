@@ -113,4 +113,4 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-proteine/) mit 63 
 - [THERAPEUTIKA.CH](https://www.therapeutika.ch/)
 
 Last Updated: 03.10.2026
-Coded by GrokBot / SpaceXAI!
+Coded by GrokBot (https://x.ai/bot) / SpaceXAI (https://x.ai/)!
